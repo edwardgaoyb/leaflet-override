@@ -1,2 +1,2 @@
 # leaflet-override
-Example overriding leaflet behaviors
+A JavaScript project
